@@ -4,7 +4,7 @@
 ### I completed Training and Internship at DevTown.
 ```
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently looking for job on Data analytics.
+- 🌱 I’m currently looking for job on Data analyst, Data scientist.
 ```
 
 
