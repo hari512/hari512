@@ -1,7 +1,7 @@
 # Hi, I’m Harisha M V👋 
 
-## I completed My graduation in BSc Computer science.
-## I completed Training and Internship at DevTown.
+### I completed My graduation in BSc Computer science.
+### I completed Training and Internship at DevTown.
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently looking for job on Data analytics.
 
