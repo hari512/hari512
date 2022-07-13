@@ -3,7 +3,7 @@
 ### I completed My graduation in BSc Computer science.
 ### I completed Training and Internship at DevTown.
 ```
-- 👀 I’m interested in Data Science.
+- 👀 I Love to code.
 ```
 
 
